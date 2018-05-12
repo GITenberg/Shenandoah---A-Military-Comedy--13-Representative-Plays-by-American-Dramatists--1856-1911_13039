@@ -1,5 +1,8 @@
 _repo: Shenandoah---A-Military-Comedy--13-Representative-Plays-by-American-Dramatists--1856-1911_13039
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howard, Bronson
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '4192'
     url: http://www.gutenberg.org/2009/agents/4192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13039#Shenandoah---A-Military-Comedy--13-Representative-Plays-by-American-Dramatists--1856-1911
 gutenberg_issued: '2004-07-28'
 gutenberg_type: Text
 identifiers:
